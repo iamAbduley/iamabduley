@@ -29,10 +29,7 @@
 
 <br />
 <img src="https://img.shields.io/badge/-python-3D7BA8?&style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/linux-353534.svg?style=for-the-badge&logo=linux&logoColor=white" />
 
 </td><td valign="top" width="50%">
