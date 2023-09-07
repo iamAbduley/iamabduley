@@ -8,12 +8,12 @@
 <h2 align="center">About me 😇</h2>
 
 - :raising_hand: He is a self-taught junior Python developer.
-- :muscle: I am interested in Machine Learning and Artificial Intelligence.
+- :muscle: I am interested in Machine Learning
 - :speech_balloon: I can develop joint projects and support your projects.
 - :ghost: Fun fact: I'm a high school student and I'm learning to code on my own.
 <br />
   
-  <div align="center">Beginners are very welcome 😇</div>
+  <div align="center">😇</div>
   
 <br />
 <!--
